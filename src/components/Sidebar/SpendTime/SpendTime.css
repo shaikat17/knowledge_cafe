@@ -1,0 +1,10 @@
+.spendTime {
+    width: 100%;
+    background-color: rgba(96, 71, 236, 0.1);
+    height: 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(96, 71, 236);
+}
